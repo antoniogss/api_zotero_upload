@@ -10,7 +10,7 @@ The Zotero API allows developers to programmatically interact with a user's Zote
 
 ## Author
 
-- [Antonio Serrano](https://github.com/antoniogss)
+- [Antonio Serrano](https://www.linkedin.com/in/antoniogsserrano/)
 
 ## License
 
