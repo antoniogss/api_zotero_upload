@@ -18,7 +18,7 @@ The Zotero API allows developers to programmatically interact with a user's Zote
 
 ## Acknowledgements
 
- - [Data Group of SoU_Ciência](https://souciencia.unifesp.br/sobre)
+ - [Data Science Team of SoU_Ciência](https://souciencia.unifesp.br/sobre)
  - [Tide Setubal Foundation](https://fundacaotidesetubal.org.br/tide-setubal-foundation/)
  - [Serrapilhera Institute](https://serrapilheira.org/en/)
  - [Legislative Amendments](https://www2.camara.leg.br/english/the-national-congress-1/types-of-legislation)
