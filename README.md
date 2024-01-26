@@ -4,9 +4,7 @@
 
 # Automation of Uploads to the Zotero
 
-Python Script for Automating Uploads of Pandemic Archive Evidence to Zotero via API, Using Metadata Stored in a JSON File.
-
-The Zotero API allows developers to programmatically interact with a user's Zotero library. It's important to note that using the Zotero API requires an API key, which can be obtained by registering an application on the Zotero website. Additionally, the API adheres to the user's privacy settings, so some operations might require user authentication to access or modify private data.
+Python script for automating data uploads to the Zotero via API, using metadata stored in a JSON file. It's important to note that using the Zotero API requires an API key, which can be obtained by registering an application on the Zotero website.
 
 ## Author
 
